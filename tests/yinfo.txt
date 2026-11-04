@@ -1,0 +1,53 @@
+dho1_yinc2[0] = 2.6667E-04
+
+dho2_yinc2[0] = 2.6667E-04
+
+dho1_yor2[0] = -22500
+
+dho2_yor2[0] = -22500
+
+dho1_yref2[0] = -22500
+
+dho2_yref2[0] = -22500
+
+length of 2=260001
+length of 2=260001
+dho1_yinc2[1] = 1.3333E-04
+
+dho2_yinc2[1] = 2.6667E-05
+
+dho1_yor2[1] = -60000
+
+dho2_yor2[1] = -37500
+
+dho1_yref2[1] = -60000
+
+dho2_yref2[1] = -37500
+
+length of 3=260001
+length of 3=260001
+dho1_yinc2[2] = 2.6667E-04
+
+dho2_yinc2[2] = 2.6667E-04
+
+dho1_yor2[2] = -22500
+
+dho2_yor2[2] = -22500
+
+dho1_yref2[2] = -22500
+
+dho2_yref2[2] = -22500
+
+length of 4=260001
+length of 4=260001
+dho1_yinc2[3] = 6.6667E-04
+
+dho2_yinc2[3] = 6.6667E-04
+
+dho1_yor2[3] = -24000
+
+dho2_yor2[3] = -24000
+
+dho1_yref2[3] = -24000
+
+dho2_yref2[3] = -24000
